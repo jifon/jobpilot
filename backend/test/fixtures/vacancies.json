@@ -1,0 +1,44 @@
+[
+  {
+    "id": "example:1",
+    "source": "example",
+    "url": "https://example.com/jobs/1",
+    "title": "Python Backend Developer",
+    "company": "Example Fintech",
+    "description": "Ищем backend-разработчика. Требования: Python 3, FastAPI, PostgreSQL, Docker, опыт от 1 года. Будет плюсом: Redis, Celery. Удалённо.",
+    "skills": ["Python", "FastAPI", "PostgreSQL", "Docker", "Redis", "Celery"],
+    "location": "Бишкек",
+    "remote": true,
+    "seniority": "junior",
+    "salary": {"min": 800, "max": 1200, "currency": "USD"},
+    "published_at": "2026-09-10T10:00:00"
+  },
+  {
+    "id": "example:2",
+    "source": "example",
+    "url": "https://example.com/jobs/2",
+    "title": "Senior Java Engineer",
+    "company": "Example Bank",
+    "description": "Java 17, Spring Boot, Kafka, Kubernetes. Опыт от 5 лет в высоконагруженных системах. Офис.",
+    "skills": ["Java", "Spring Boot", "Kafka", "Kubernetes"],
+    "location": "Алматы",
+    "remote": false,
+    "seniority": "senior",
+    "salary": null,
+    "published_at": "2026-09-12T09:30:00"
+  },
+  {
+    "id": "example:3",
+    "source": "example",
+    "url": "https://example.com/jobs/3",
+    "title": "Junior Python / Data Engineer",
+    "company": "Example Analytics",
+    "description": "Python, SQL, pandas, Airflow. Английский B1+. Готовы обучать. Гибрид.",
+    "skills": ["Python", "SQL", "pandas", "Airflow"],
+    "location": "Бишкек",
+    "remote": false,
+    "seniority": "junior",
+    "salary": {"min": 60000, "max": 90000, "currency": "KGS"},
+    "published_at": "2026-09-14T12:00:00"
+  }
+]

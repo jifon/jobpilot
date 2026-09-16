@@ -1,0 +1,26 @@
+{
+  "full_name": "Test Candidate",
+  "title": "Junior Backend Developer",
+  "summary": "Backend-разработчик на Python, делаю REST API и работаю с базами данных.",
+  "skills": ["Python", "FastAPI", "PostgreSQL", "SQL", "Git", "Docker"],
+  "experience": [
+    {
+      "company": "Example Startup",
+      "position": "Junior Python Developer",
+      "start": "2025-03-01",
+      "end": null,
+      "description": "Разработка REST API на FastAPI, интеграция с PostgreSQL, покрытие тестами.",
+      "skills": ["Python", "FastAPI", "PostgreSQL", "pytest"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Example University",
+      "degree": "Бакалавр",
+      "field": "Computer Science",
+      "year": 2025
+    }
+  ],
+  "languages": ["Русский — родной", "English — B2"],
+  "raw_text": ""
+}
